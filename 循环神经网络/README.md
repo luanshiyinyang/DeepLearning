@@ -4,3 +4,4 @@
 - 使用GRU
 - 实现双向RNN
 - 字符级文本生成
+- 添加Attention
